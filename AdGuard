@@ -1,0 +1,7 @@
+/(track|stat(istics|s)|sentry|metric|analy|collect|counter|click|affi|statis|log(s|ging)|telem|marketing|adser|pixel)/
+/^https?:\/\/(.{0,})?-(ad(s|-|v|vert(ise?(ing)?)?))/
+/^https?:\/\/(ad(s|-|v|vert(ise?(ing)?)?))/
+/(.{0,}-)(ad(s|-|v|vert(ise?(ing)?)?))/
+/\.(ad(s|v|-|vert(ise?(ing)?)?))/
+/(\/ads?\/|https?:\/\/ad\.|_ads?_|\.ads?\.)/
+/(\/logs?\/|\.logs?\.|https?:\/\/logs?\.)/
